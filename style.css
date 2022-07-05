@@ -3,3 +3,35 @@ body{
     margin: 0;
 
 }
+h1{
+    font-size: 50px;
+    padding-top: 200px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 200px;
+}
+.orange-color{
+    color:orange;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 80%;
+    margin-top: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange, tomato);
+    padding:12px 45px;
+    border-radius: 25px;
+    color:white
+}
+.pragraph{
+   color:green;
+   padding-bottom:30px;
+   width: 75%;
+}
